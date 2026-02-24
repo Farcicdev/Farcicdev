@@ -1,20 +1,8 @@
-.github/workflows
-
-
-pacman.yml
-
-
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <h1 align="center">Ola👋, sejam bem Vindo ao meu GitHub!</h1>
 
 ###
 
-<h5 align="left">Desenvolvedor Backend em formação em Análise e Desenvolvimento de Sistemas pela FIAP, com foco em Java e Spring Boot.<br><br>Experiência na criação de APIs REST, utilização de DTO e Mapper, e integração com banco de dados Postgres e MongoDB.<br><br>Atualmente desenvolvendo projetos próprios com foco em aprendizado contínuo e evolução prática, como sistemas PDV e aplicações para cadastro de filmes, além de soluções backend voltadas para validação e automação.<br><br>Interessado em oportunidades para atuar como desenvolvedor backend e continuar evoluindo tecnicamente em projetos reais.</h5>
+<h4 align="left">Desenvolvedor Backend em formação em Análise e Desenvolvimento de Sistemas pela FIAP, com foco em Java e Spring Boot.<br><br>Experiência na criação de APIs REST, utilização de DTO e Mapper, e integração com banco de dados Postgres e MongoDB.<br><br>Atualmente desenvolvendo projetos próprios com foco em aprendizado contínuo e evolução prática, como sistemas PDV e aplicações para cadastro de filmes, além de soluções backend voltadas para validação e automação.<br><br>Interessado em oportunidades para atuar como desenvolvedor backend e continuar evoluindo tecnicamente em projetos reais.</h4>
 
 ###
 
@@ -55,3 +43,4 @@ Fork on Github
   <img height="200" src="https://i.pinimg.com/736x/46/cb/6a/46cb6a7fdd96346a61300ff5970ef1b1.jpg"  />
 </div>
 
+###
