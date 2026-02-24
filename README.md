@@ -25,8 +25,18 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="www.linkedin.com/in/ augusto-farcic-a8a4b4368 Nome fantasia da URL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/augustofarcic/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/736x/46/cb/6a/46cb6a7fdd96346a61300ff5970ef1b1.jpg"  />
 </div>
 
 ###
@@ -36,11 +46,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farcicdev/Farcicdev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Farcicdev/Farcicdev/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/46/cb/6a/46cb6a7fdd96346a61300ff5970ef1b1.jpg"  />
-</div>
 
 ###
