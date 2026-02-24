@@ -39,7 +39,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img height="200" src="https://i.pinimg.com/736x/46/cb/6a/46cb6a7fdd96346a61300ff5970ef1b1.jpg"  />
 </div>
 
