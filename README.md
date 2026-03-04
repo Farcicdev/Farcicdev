@@ -1,8 +1,8 @@
-<h1 align="center">Ola👋, sejam bem Vindo ao meu GitHub!</h1>
+<h1 align="center"></h1>
 
 ###
 
-<h4 align="left">Desenvolvedor Backend em formação em Análise e Desenvolvimento de Sistemas pela FIAP, com foco em Java e Spring Boot.<br><br>Experiência na criação de APIs REST, utilização de DTO e Mapper, e integração com banco de dados Postgres e MongoDB.<br><br>Atualmente desenvolvendo projetos próprios com foco em aprendizado contínuo e evolução prática, como sistemas PDV e aplicações para cadastro de filmes, além de soluções backend voltadas para validação e automação.<br><br>Interessado em oportunidades para atuar como desenvolvedor backend e continuar evoluindo tecnicamente em projetos reais.</h4>
+<h4 align="left">Desenvolvedor Backend focado em Java e Spring Boot.<br><br>Experiência no desenvolvimento de APIs REST utilizando:<br>- Java<br>- Spring Boot<br>- JPA / Hibernate<br>- PostgreSQL<br>- DTO e Mapper<br><br>Atualmente desenvolvendo projetos próprios para aprimorar arquitetura backend e boas práticas.<br><br>Tecnologias:<br>Java • Spring Boot • PostgreSQL • JPA • Flyway<br><br>Xilften<br>Sistema backend para gerenciamento de filmes utilizando arquitetura em camadas.</h4>
 
 ###
 
@@ -43,10 +43,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farcicdev/Farcicdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farcicdev/Farcicdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Farcicdev/Farcicdev/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Farcicdev/Farcicdev/output/snake.svg" alt="Snake animation" />
 
 ###
