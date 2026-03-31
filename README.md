@@ -2,7 +2,56 @@
 
 ###
 
-<h4 align="left">Desenvolvedor Backend focado em Java e Spring Boot.<br><br>Experiência no desenvolvimento de APIs REST utilizando:<br>- Java<br>- Spring Boot<br>- JPA / Hibernate<br>- PostgreSQL<br>- DTO e Mapper<br><br>Atualmente desenvolvendo projetos próprios para aprimorar arquitetura backend e boas práticas.<br><br>Tecnologias:<br>Java • Spring Boot • PostgreSQL • JPA • Flyway<br><br>Xilften<br>Sistema backend para gerenciamento de filmes utilizando arquitetura em camadas.</h4>
+<h4 align="left"># 👨‍💻 Augusto Farcic
+
+Desenvolvedor Backend focado em Java e Spring Boot, com experiência prática na construção de APIs REST e sistemas baseados em microsserviços.
+
+## 🚀 Sobre mim
+
+Atualmente desenvolvo projetos aplicando:
+
+- Arquitetura de microsserviços
+- Clean Architecture
+- Comunicação assíncrona com RabbitMQ
+- Integração entre serviços com OpenFeign
+- Persistência com PostgreSQL e MongoDB
+
+Tenho experiência na criação de sistemas reais, incluindo envio de emails, processamento em filas e integração com APIs externas.
+
+---
+
+## 🔥 Projetos em destaque
+
+### 📌 Microsservice - Email Service
+- Sistema de envio de emails com arquitetura de microsserviços  
+- Comunicação assíncrona com RabbitMQ  
+- Integração com SMTP (Gmail)  
+- Persistência com PostgreSQL  
+
+### 📌 Commerce Cart API
+- API de carrinho com integração externa via OpenFeign  
+- Cache com Redis para performance  
+- Persistência com MongoDB  
+
+### 📌 Event API (Clean Architecture)
+- Separação em domain, usecases e infra  
+- CRUD completo com regras de negócio  
+- Uso de DTOs e mapeamento  
+
+---
+
+## 🛠️ Tecnologias
+
+Java • Spring Boot • RabbitMQ • OpenFeign  
+PostgreSQL • MongoDB • Redis  
+Docker • Git • REST APIs  
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/  
+- Email: seuemail@email.com</h4>
 
 ###
 
