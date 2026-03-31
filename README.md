@@ -50,8 +50,8 @@ Docker • Git • REST APIs
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/  
-- Email: seuemail@email.com</h4>
+- LinkedIn: www.linkedin.com/in/augusto-farcic-a8a4b4368
+- Email: augustofarcic@gmail.com
 
 ###
 
