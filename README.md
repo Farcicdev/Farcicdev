@@ -88,15 +88,6 @@ API REST para gerenciamento de clubes, jogadores, estádios e usuários em um do
 - Entendimento de ambiente local reproduzível com Docker Compose.
 - Evolução constante em testes, documentação e boas práticas de backend.
 
-## GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Farcicdev&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farcicdev&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 <p align="center">
   Aberto a oportunidades como Desenvolvedor Backend Java Júnior.
 </p>
